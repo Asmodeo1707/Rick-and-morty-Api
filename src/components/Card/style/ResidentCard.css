@@ -1,0 +1,12 @@
+/* General */
+.card {
+    width: 220px;
+    background-color: #3a4767;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+img {
+  width: 100%;
+  border-radius: 7px;
+}

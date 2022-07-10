@@ -1,0 +1,14 @@
+/* Input */
+.Input__form{
+  border: none;
+  border-radius: 8px;
+  padding: 4px;
+  margin: 15px;
+}
+/* Button */
+.bth__input{
+  border-radius: 10px;
+  border: none;
+  padding: 4px;
+  margin: 5px;
+}
